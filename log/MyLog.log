@@ -1,0 +1,9 @@
+PassFail2020-59-06 19:59:20 [main] INFO  LoggerTest:11 - Info log PARAMETER
+2020-59-06 19:59:20 [main] WARN  LoggerTest:12 - Warn log PARAMETER, PARAMETER
+2020-59-06 19:59:20 [main] ERROR LoggerTest:13 - Error log
+2020-00-06 20:00:13 [main] INFO  LoggerTest:11 - Info log PARAMETER
+2020-00-06 20:00:13 [main] WARN  LoggerTest:12 - Warn log PARAMETER, PARAMETER
+2020-00-06 20:00:13 [main] ERROR LoggerTest:13 - Error log
+2020-08-06 20:08:11 [main] INFO  LoggerTest:11 - Info log PARAMETER
+2020-08-06 20:08:11 [main] WARN  LoggerTest:12 - Warn log PARAMETER, PARAMETER
+2020-08-06 20:08:11 [main] ERROR LoggerTest:13 - Error log
